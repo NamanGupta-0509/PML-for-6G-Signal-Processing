@@ -1,5 +1,5 @@
 
-# Signal Processing
+# Probalistic Machine Learning for 6G Signal Processing
 
 This repository implements techniques for signal classification, channel estimation, and data detection using:
 - **Automatic Differentiation Variational Inference (ADVI)** for Bayesian signal classification.
